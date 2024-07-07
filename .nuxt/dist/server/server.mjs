@@ -1,0 +1,1 @@
+export { default } from "file:///D:/copros/responsi-web-portofolio-main/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

@@ -59,10 +59,10 @@
                   <hr>
                   <div class="row">
                     <div class="col-sm-3">
-                      <h6 class="mb-0">wisnuwicaksana100@students.amikom.ac.id</h6>
+                      <h6 class="mb-0">Email</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      fip@jukmuh.al
+                      wisnuwicaksana100@students.amikom.ac.id
                     </div>
                   </div>
                   <hr>
