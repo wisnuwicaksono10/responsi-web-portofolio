@@ -9,7 +9,7 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="150">
+                    <img src="../poto.JPEG" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4> WISNU WICAKONO 22.11.4728 </h4>
                       <p class="text-secondary mb-1">Full Stack Developer</p>
@@ -71,7 +71,7 @@
                       <h6 class="mb-0">Phone</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      (239) 816-9029
+                      (+62) 89536484961
                     </div>
                   </div>
                   <hr>
@@ -80,7 +80,7 @@
                       <h6 class="mb-0">Mobile</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      (320) 380-4539
+                      (+62) 89536484961
                     </div>
                   </div>
                   <hr>
